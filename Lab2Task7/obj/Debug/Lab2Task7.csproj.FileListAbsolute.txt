@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Lab2Task7\Lab2Task7\bin\Debug\Lab2Task7.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Lab2Task7\Lab2Task7\bin\Debug\Lab2Task7.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab2Task7\Lab2Task7\bin\Debug\Lab2Task7.pdb
+c:\users\user\documents\visual studio 2015\Projects\Lab2Task7\Lab2Task7\obj\Debug\Lab2Task7.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Lab2Task7\Lab2Task7\obj\Debug\Lab2Task7.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab2Task7\Lab2Task7\obj\Debug\Lab2Task7.pdb
